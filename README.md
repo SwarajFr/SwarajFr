@@ -3,13 +3,13 @@
 I'm a first year CS undergrad who loves to create / solve problems.
 
 ## What I'm up to
-- 🔭 Currently working on: A personal website
+- 🔭 Currently working on: i'm still trying to figure it out
 - 🌱 Learning: Machine Learning
 - 💬 Ask me about: Math / Python / C / C++ / GODOT
 
 ## Tech I use
-- Languages: Python / C / C++ / JS
-- Tools: MERN / ML / GODOT
+- Languages: Python / C / C++ 
+- Tools: ML / GODOT
 - Databases: MySQL
 
 ## GitHub Stats
