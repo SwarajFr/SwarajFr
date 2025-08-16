@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hello! I'm Swaraj 👋
 
-<!--
-**SwarajFr/SwarajFr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first year CS undergrad who loves to create / solve problems.
 
-Here are some ideas to get you started:
+## What I'm up to
+- 🔭 Currently working on: A personal website
+- 🌱 Learning: Machine Learning
+- 💬 Ask me about: Math / Python / C / C++ / GODOT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I use
+- Languages: Python / C / C++ / JS
+- Tools: MERN / ML / GODOT
+- Databases: MySQL
+
+## GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SwarajFr&show_icons=true)
+
+## Connect with me
+- 💼 LinkedIn: [Swaraj Panda](https://www.linkedin.com/in/swarajxpanda/)
+- 🌐 Portfolio: yet-to-come
+
+---
+Thanks for stopping by! 😊
