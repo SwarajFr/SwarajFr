@@ -8,8 +8,8 @@ I'm a first year CS undergrad who loves to create / solve problems.
 - 💬 Ask me about: Math / Python / C / C++ / GODOT
 
 ## Tech I use
-- Languages: Python / C / C++ 
-- Tools: ML / GODOT
+- Languages: Python / C / C++ / HTML / CSS / JS / JAVA
+- Tools: ML / GODOT / AWS / Arduino
 - Databases: MySQL
 
 ## GitHub Stats
