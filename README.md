@@ -8,41 +8,40 @@
 
 ## 🌟 About Me
 - 🔭 Currently working on: *figuring things out & building cool side projects*  
-- 🌱 Learning: **Machine Learning | Operating Systems**  
-- 💬 Ask me about: **Math | Python | C / C++ | Game Dev**  
-- 🎯 Interests: **Startups, Tech Experiments, Gaming, Robotics**
+- 🌱 Learning: **Machine Learning | Operating Systems**    
+- 🎯 Interests: **Startup, Tech, Filmmaking**
 
 ---
 
 ## 🛠️ Tech Stack
+Here are some of the tools and technologies I work with:
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,react,nodejs,express,mongodb,godot,arduino,aws,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++"/>
+  <img src="https://skillicons.dev/icons?i=c" title="C"/>
+  <img src="https://skillicons.dev/icons?i=java" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS"/>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=react" title="React"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" title="Express"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=godot" title="Godot"/>
+  <img src="https://skillicons.dev/icons?i=arduino" title="Arduino"/>
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS"/>
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwarajFr&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarajFr&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/swarajxpanda/">
-    <img src="https://img.shields.io/badge/-Swaraj%20Panda-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/SwarajFr">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SwarajFr&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
-
-<h3 align="center">⚡ Thanks for stopping by! Keep coding and stay curious! 😊</h3>
+  <img src="https://komarev.com/ghpvc/?username=SwarajFr&style=flat-square&color=blue" alt=
