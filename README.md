@@ -41,7 +41,8 @@ Here are some of the tools and technologies I work with:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarajFr&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SwarajFr&style=flat-square&color=blue" alt=
+  <img src="https://komarev.com/ghpvc/?username=SwarajFr&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
+
+<h3 align="center">⚡ Thanks for stopping by! Keep coding and stay curious! 😊</h3>
