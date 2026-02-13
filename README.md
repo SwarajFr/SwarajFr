@@ -1,48 +1,39 @@
-<!-- Banner (design one on Canva/Figma and upload as banner.png) -->
-<!-- ![Banner](./banner.png) -->
+# Swaraj
+First-year CS Undergrad | Problem Solver | Builder
 
-<h1 align="center">Hey there! I'm Swaraj 👋</h1>
-<h3 align="center">🚀 First-year CS Undergrad passionate about solving problems & building things from scratch</h3>
+## About Me
+Currently working on studying Maths & ML/DL
+Learning: Machine Learning and Implementation
+Interests: Startups, Technology, Filmmaking
+
+## Current Projects
+- **[planyourshot](https://github.com/SwarajFr/planyourshot)** - An AI-powered decision engine that converts scene descriptions into structured, ready-to-execute cinematic shot plans.
+- portfolioAnalyst - A simple portfolio analyser to help me see the **REAL STATISTICS** of my investment portfolio
+
+## Skills
+### Primary
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Game Dev](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Secondary
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tertiary
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwarajFr&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SwarajFr&layout=compact&theme=radical)
 
 ---
-
-## 🌟 About Me
-- 🔭 Currently working on: *figuring things out & building cool side projects*  
-- 🌱 Learning: **Machine Learning | Operating Systems**    
-- 🎯 Interests: **Startup, Tech, Filmmaking**
-
----
-
-## 🛠️ Tech Stack
-Here are some of the tools and technologies I work with:
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++"/>
-  <img src="https://skillicons.dev/icons?i=c" title="C"/>
-  <img src="https://skillicons.dev/icons?i=java" title="Java"/>
-  <img src="https://skillicons.dev/icons?i=html" title="HTML"/>
-  <img src="https://skillicons.dev/icons?i=css" title="CSS"/>
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=react" title="React"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=express" title="Express"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
-  <img src="https://skillicons.dev/icons?i=godot" title="Godot"/>
-  <img src="https://skillicons.dev/icons?i=arduino" title="Arduino"/>
-  <img src="https://skillicons.dev/icons?i=aws" title="AWS"/>
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarajFr&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SwarajFr&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
-
-<h3 align="center">⚡ Thanks for stopping by! Keep coding and stay curious! 😊</h3>
+Thanks for visiting! Keep building and stay curious.
