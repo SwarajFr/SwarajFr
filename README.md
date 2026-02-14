@@ -1,5 +1,6 @@
 # Swaraj
-First-year CS Undergrad | Problem Solver | Builder
+i built a walking robot with 2 TT Geared motors and a fanta can ~ it led me to take this wonderful path of STEM
+and i also like to see visually pleasing things which for me is beautifully shot pictures or videos, hence im into cinematography
 
 ## About Me
 Currently working on studying Maths & ML/DL
@@ -32,4 +33,4 @@ Interests: Startups, Technology, Filmmaking
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
-Thanks for visiting! Keep building and stay curious.
+text on linkedin to talk!
