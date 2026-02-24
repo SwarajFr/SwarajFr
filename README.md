@@ -10,7 +10,6 @@ Interests: Startups, Technology, Filmmaking
 ## Current Projects
 - **[planyourshot](https://github.com/SwarajFr/planyourshot)** - An AI-powered decision engine that converts scene descriptions into structured, ready-to-execute cinematic shot plans.
 - **[PortfolioManager](https://github.com/SwarajFr/PortfolioManager)**  - A simple portfolio analyser to help me see the **REAL STATISTICS** of my investment portfolio.
-- **[land-cover-classification](https://github.com/SwarajFr/land-cover-classification-using-knn)** - This project performs land-use and land-cover classification on satellite images using the KNN algorithm.
 
 ## Skills
 ### Primary
