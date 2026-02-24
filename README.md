@@ -1,5 +1,5 @@
 # Swaraj
-i built a walking robot with 2 TT Geared motors and a fanta can ~ it led me to take this wonderful path of STEM
+at 9 (age) i built a walking robot with 2 TT Geared motors and a fanta can ~ it led me to take this wonderful path of STEM
 and i also like to see visually pleasing things which for me is beautifully shot pictures or videos, hence im into cinematography
 
 ## About Me
