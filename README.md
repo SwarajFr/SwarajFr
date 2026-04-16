@@ -10,6 +10,7 @@ Interests: Startups, Technology, Filmmaking
 ## Current Projects
 - **[planyourshot](https://github.com/SwarajFr/planyourshot)** - An AI-powered decision engine that converts scene descriptions into structured, ready-to-execute cinematic shot plans.
 - **[PortfolioManager](https://github.com/SwarajFr/PortfolioManager)**  - A simple portfolio analyser to help me see the **REAL STATISTICS** of my investment portfolio.
+- **[rdrv](https://github.com/SwarajFr/rdrv)**  - rdrv (reduce drawdown reduce volatility) is a portfolio risk intelligence system that models market uncertainty and quantifies downside risk using statistical and machine learning techniques.
 
 ## Skills
 ### Primary
