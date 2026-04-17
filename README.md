@@ -8,8 +8,8 @@ Learning: Machine Learning and Implementation
 Interests: Startups, Technology, Filmmaking
 
 ## Current Projects
-- **[planyourshot](https://github.com/SwarajFr/planyourshot)** - An AI-powered decision engine that converts scene descriptions into structured, ready-to-execute cinematic shot plans.
-- **[PortfolioManager](https://github.com/SwarajFr/PortfolioManager)**  - A simple portfolio analyser to help me see the **REAL STATISTICS** of my investment portfolio.
+- **[planyourshot](https://github.com/swarajxpanda/planyourshot)** - An AI-powered decision engine that converts scene descriptions into structured, ready-to-execute cinematic shot plans.
+- **[PortfolioManager](https://github.com/swarajxpanda/PortfolioManager)**  - A simple portfolio analyser to help me see the **REAL STATISTICS** of my investment portfolio.
 
 ## Skills
 ### Primary
