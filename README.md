@@ -9,7 +9,7 @@ Interests: Startups, Technology, Filmmaking
 
 ## Current Projects
 - **[planyourshot](https://github.com/swarajxpanda/planyourshot)** - An AI-powered decision engine that converts scene descriptions into structured, ready-to-execute cinematic shot plans.
-- **[PortfolioManager](https://github.com/swarajxpanda/PortfolioManager)**  - A simple portfolio analyser to help me see the **REAL STATISTICS** of my investment portfolio.
+- **[PortfolioManager](https://github.com/swarajxpanda/PortfolioManager)**  - an ai powered wealth tech platform with an intelligent agent that assists in data analysis for an investment portfolio
 
 ## Skills
 ### Primary
