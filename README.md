@@ -1,15 +1,11 @@
 # Swaraj
 at 9 (age) i built a walking robot with 2 TT Geared motors and a fanta can ~ it led me to take this wonderful path of STEM
-and i also like to see visually pleasing things which for me is beautifully shot pictures or videos, hence im into cinematography
+and i also like to see visually pleasing things which for me is beautifully shot pictures or videos (i'm into cinematography)
 
 ## About Me
 Currently working on studying Maths & ML/DL
 Learning: Machine Learning and Implementation
 Interests: Startups, Technology, Filmmaking
-
-## Current Projects
-- **[planyourshot](https://github.com/swarajxpanda/planyourshot)** - An AI-powered decision engine that converts scene descriptions into structured, ready-to-execute cinematic shot plans.
-- **[PortfolioManager](https://github.com/swarajxpanda/PortfolioManager)**  - an ai powered wealth tech platform with an intelligent agent that assists in data analysis for an investment portfolio
 
 ## Skills
 ### Primary
