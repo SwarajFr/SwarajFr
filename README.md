@@ -28,5 +28,10 @@ Interests: Startups, Technology, Filmmaking
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
----
-text on linkedin to talk!
+## GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=swarajxpanda&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+## Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swarajxpanda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/swarajxpanda/))
