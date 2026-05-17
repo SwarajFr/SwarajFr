@@ -4,7 +4,9 @@ and i also like to see visually pleasing things which for me is beautifully shot
 
 ## About Me
 Currently working on studying Maths & ML/DL
+
 Learning: Machine Learning and Implementation
+
 Interests: Startups, Technology, Filmmaking
 
 ## Skills
