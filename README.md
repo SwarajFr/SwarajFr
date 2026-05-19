@@ -7,7 +7,7 @@ Currently working on studying Maths & ML/DL
 
 Learning: Machine Learning and Implementation
 
-Interests: Startups, Technology, Filmmaking
+Interests: Startups, Technology, Filmmaking, Finance
 
 ## Skills
 ### Primary
